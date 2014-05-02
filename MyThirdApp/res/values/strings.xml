@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seeder App</string>
+    <string name="hello_world">This screen will remain blank; except for occasional toast messages.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
